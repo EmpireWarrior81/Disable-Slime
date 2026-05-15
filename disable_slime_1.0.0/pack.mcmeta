@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 6,
+    "supported_formats": {"min_inclusive": 4, "max_inclusive": 9999},
+    "description": "Disables slime spawning"
+  }
+}
